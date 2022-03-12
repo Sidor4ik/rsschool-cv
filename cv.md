@@ -9,12 +9,13 @@ _For this days i decide to change my previosly job and get new challenges in Fro
 * CSS
 * JS
 ## Code Examples:
-`` function multiply(a, b){
-  if (!a || !b || typeof(a) != "number" || typeof(b) != "number") {
-    return 0;
-  }
-  return a * b;
-} ``
+```function multiply(a,b){
+	if(!a || !b || typeof(a) != "number" || typeof(b) != "number"{
+		return  0;
+		}
+		return a * b;
+}
+```
 ## Expirience:
 https://github.com/Sidor4ik/rsschool-cv
 ## Education:
